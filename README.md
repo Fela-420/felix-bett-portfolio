@@ -1,140 +1,180 @@
-# Felix Bett — Cybersecurity Portfolio
-
-**Junior Cybersecurity Professional**  
-Specializing in penetration testing, vulnerability assessment, threat detection, and SME security support.
-
-📧 bettf1000@gmail.com  
-📞 +254 115 764 905  
-📍 Eldoret, Kenya  
-🔗 [LinkedIn](https://www.linkedin.com/in/felix-bett-86b582340/)  
-🔗 [GitHub](https://github.com/Fela-420)
-
----
-
-## 🧠 Professional Summary
-
-Motivated junior cybersecurity professional with hands-on experience in penetration testing, security research, risk assessment, and incident response. Skilled with tools like Burp Suite, Wireshark, Metasploit, and strong understanding of cybersecurity frameworks including ISO 27001 and GDPR compliance.
+<h1 align="center">Felix Kiptoo Bett</h1>
+<h3 align="center">Cybersecurity Researcher · Bug Bounty Hunter · Web Application Pentester</h3>
+<p align="center">
+  <a href="mailto:bettf1000@gmail.com">📧 bettf1000@gmail.com</a> &nbsp;|&nbsp;
+  📞 +254 115 764 905 &nbsp;|&nbsp;
+  📍 Eldoret, Kenya
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/felix-bett-86b582340/"><img src="https://img.shields.io/badge/LinkedIn-Felix%20Bett-0077B5?style=flat&logo=linkedin"/></a>
+  <a href="https://tryhackme.com/p/HolyBible"><img src="https://img.shields.io/badge/TryHackMe-HolyBible-212C42?style=flat&logo=tryhackme"/></a>
+  <a href="https://profile.hackthebox.com/profile/019c4dea-0a70-728e-919d-183f24b5cf1c"><img src="https://img.shields.io/badge/HackTheBox-HolyBible-9FEF00?style=flat&logo=hackthebox&logoColor=black"/></a>
+  <a href="https://portswigger.net/web-security"><img src="https://img.shields.io/badge/PortSwigger-HolyBible-FF6633?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4="/></a>
+</p>
 
 ---
 
-## 💼 Experience
+## 🧠 About Me
 
-### Cybersecurity Researcher — Remote (2024–Present)
-- Conducted penetration testing and vulnerability research using Burp Suite, Wireshark, Metasploit.  
-- Solved real-world attack simulations on TryHackMe and Hack The Box.  
-- Helped local SMEs improve security posture by identifying and mitigating threats.
+I'm a hands-on cybersecurity practitioner specializing in **web application security**, **API penetration testing**, and **bug bounty hunting**. I hunt live programs on HackerOne, Bugcrowd, and Intigriti under the handle **HolyBible**, with a primary focus on access control vulnerabilities, IDOR, authentication bypass, and API abuse.
 
-### Freelance Junior Penetration Tester — Remote (Jan 2025–Present)
-- Performed security assessments on web applications, networks, and cryptographic systems.  
-- Created detailed vulnerability reports with risk ratings and remediation steps.
-
-### Security Analyst (Academic Project / Internship) — USIU (Dec 2024–Aug 2025)
-- Supported incident response simulations and risk analysis.  
-- Assisted with security documentation and compliance tasks.
+I back every skill with real lab work — active across PortSwigger Web Security Academy, HackTheBox Academy, TryHackMe, and APIsec University — and I maintain a personal vulnerable lab environment (SecureLab) to sharpen my offensive techniques.
 
 ---
 
-## 🎓 Education
+## 🎯 Bug Bounty Profiles
 
-- **Moringa School** — BSc Cybersecurity (2024–2025)  
-- **Cisco Networking Academy** — Cybersecurity & Ethical Hacking (May 2024–Feb 2025)  
-- **United States International University – Africa (USIU)** — Security Analyst (Academic Project/Internship)
-
----
-
-## 🛠️ Skills & Tools
-
-- Penetration Testing (Web, API, Network)  
-- Vulnerability Management  
-- Risk & Threat Analysis  
-- Identity & Access Management (RBAC, MFA)  
-- Cryptography  
-- SIEM Tools  
-- Security Frameworks: ISO 27001, GDPR Compliance  
-- Tools: Burp Suite, Wireshark, Metasploit, Nmap, SavvyCAN
-
----
-
-## 🏆 Awards & Certifications
-
-- Top Contributor – Cybersecurity Forums  
-- CTF Winner – TryHackMe Rooms  
-
-**Certifications:**  
-- CompTIA Security+ (2025–2028)  
-- ISO/IEC 27001 Lead Auditor (2025)  
-- Cisco Ethical Hacker (2025)  
-- ISC2 Candidate (2025–2026)  
-- TryHackMe Web Fundamentals (2025)  
-- TryHackMe Introduction to Cybersecurity (2025)  
-- Cisco Introduction to Cybersecurity (2025)
-
----
-
-## 🧩 Featured Projects & Repositories
-
-### Web Application Security
-
-- [2-month-full-web-protection-practise-](https://github.com/Fela-420/2-month-full-web-protection-practise-)  
-  Comprehensive web penetration testing covering OWASP Top 10 vulnerabilities, SQL Injection, IDOR, and more. Includes detailed reports and remediation recommendations.
-
-- [IDOR-](https://github.com/Fela-420/IDOR-)  
-  Practical testing and exploitation of Insecure Direct Object Reference vulnerabilities with mitigation strategies.
-
-- [SQL-Injection-](https://github.com/Fela-420/SQL-Injection-)  
-  Examples of SQL Injection attacks, payloads, and defenses.
-
-- [Owasp-Top-ten-](https://github.com/Fela-420/Owasp-Top-ten-)  
-  Demonstrations of OWASP Top Ten risks and security testing methodologies.
-
-### Bug Bounty & Tools
-
-- [bug-bounty-arsenal](https://github.com/Fela-420/bug-bounty-arsenal)  
-  Collection of bug bounty tools, scripts, and methodologies.
-
-### Automotive / ECU Security
-
-- [ECU-pentesting-](https://github.com/Fela-420/ECU-pentesting-)  
-  Labs and exercises related to ECU security, including threat modeling, fuzzing, and secure boot analysis.
-
-### Network & System Security
-
-- [Active-Directory](https://github.com/Fela-420/Active-Directory)  
-  Security testing and enumeration techniques for Windows Active Directory environments.
-
-- [Vulnerabillity-assessment](https://github.com/Fela-420/Vulnerabillity-assessment)  
-  General vulnerability assessment and scanning reports.
+| Platform | Handle | Link |
+|----------|--------|------|
+| HackerOne | HolyBible | [View Profile](https://hackerone.com) |
+| Bugcrowd | HolyBible | [View Profile](https://bugcrowd.com) |
+| Intigriti | HolyBible | [View Profile](https://intigriti.com) |
 
 ---
 
 ## 🐞 Bug Bounty Case Studies
 
-- **CORS Misconfiguration on notion.so**  
-  Reported a permissive CORS wildcard leading to potential data exfiltration. Learned professional vulnerability reporting and triage process. [Detailed write-up coming soon]
+### CORS Misconfiguration — notion.so
+Identified a permissive CORS wildcard policy with potential for cross-origin data exfiltration. Reported through the official disclosure process; gained hands-on experience in professional vulnerability reporting and triage.
+> *Write-up coming soon*
 
-- **Information Disclosure on 23andMe API**  
-  Discovered unauthenticated API endpoints exposing internal structures; report closed as duplicate. Developed skills in API security testing and impact assessment.
+### Information Disclosure — 23andMe API
+Discovered unauthenticated API endpoints exposing internal structures and staging environment surfaces (`.int.23andme.us`). Report closed as duplicate — confirmed the vulnerability class was valid and sharpened API recon methodology.
+> *Full methodology write-up in [`bug-bounty-arsenal`](./bug-bounty-arsenal)*
 
-*(Consider adding a repo `bug-bounty-case-studies` with detailed markdown write-ups of these reports.)*
-
----
-
-## 🎮 Cybersecurity Labs & Profiles
-
-- **TryHackMe Profile:** [https://tryhackme.com/p/HolyBible](https://tryhackme.com/p/HolyBible)  
-  Active learner completing real-world security labs and CTF challenges, demonstrating skills in web app security, network exploitation, and cryptography.
-
-- **Hack The Box ID:** HTB-F933F6AD9B  
-  Practical penetration testing labs and challenges focused on network and application security.
+### Email Verification Logic Flaw — 23andMe
+Identified a logic flaw in the email verification flow enabling account takeover and account lockout. Assessed at **P1/P2** severity. Reported with full proof-of-concept and remediation steps.
+> *Sanitized write-up coming soon*
 
 ---
 
-## 📫 Contact Me
+## 🛠️ Technical Skills
 
-Email: bettf1000@gmail.com  
-LinkedIn: https://www.linkedin.com/in/felix-bett-86b582340/
+### Offensive
+`Web App Pentesting` `IDOR & Access Control` `Authentication Bypass` `SQL Injection` `NoSQL Injection` `XSS` `CSRF` `API Abuse` `SSRF` `GraphQL Testing`
+
+### Tooling
+`Burp Suite` `Autorize` `JWT Editor` `InQL` `GAP` `Subfinder` `Amass` `HTTPX` `FFUF` `Nuclei` `Waybackurls` `GAU` `Katana` `SQLMap` `jwt_tool` `Metasploit` `Wireshark` `Nmap` `Postman`
+
+### Defensive
+`Risk & Threat Analysis` `Incident Response` `SIEM Tools` `IAM (RBAC, MFA)` `ISO 27001` `GDPR Compliance` `Vulnerability Management`
+
+### Development
+`Python` `Flask` `PostgreSQL` `Git` `Kali Linux` `Bash scripting`
 
 ---
 
-*This portfolio demonstrates practical cybersecurity skills, real-world experience, and a passion for continuous learning — ready for junior security analyst, penetration tester, and security researcher roles.*
+## 📚 Training Progress
 
+### PortSwigger Web Security Academy — Practitioner Level
+*Account: HolyBible (bettf1000@gmail.com)*
+
+| Path | Progress |
+|------|----------|
+| API Testing | 82% ████████░░ |
+| SQL Injection | 69% ██████░░░░ |
+| Authentication Vulnerabilities | 62% ██████░░░░ |
+| Cross-Site Request Forgery (CSRF) | In Progress |
+| GraphQL API Vulnerabilities | In Progress |
+| NoSQL Injection | In Progress |
+
+> All paths at **Practitioner** level — hands-on exploit labs against real vulnerable applications.
+
+---
+
+### HackTheBox Academy — Web Penetration Tester Path
+*CWE Certification Path · 35.5% Complete*
+
+**Completed Modules**
+- ✅ Web Requests
+- ✅ Introduction to Web Applications
+- ✅ Using Web Proxies *(Burp Suite & ZAP)*
+- ✅ Information Gathering – Web Edition
+- ✅ JavaScript Deobfuscation
+- ✅ Cross-Site Scripting (XSS)
+
+**In Progress**
+- 🔄 SQL Injection Fundamentals *(94%)*
+- 🔄 Web Fuzzing
+- 🔄 Bug Bounty Hunting Process
+- 🔄 SQLMap Essentials
+
+🔗 [HackTheBox Profile](https://profile.hackthebox.com/profile/019c4dea-0a70-728e-919d-183f24b5cf1c)
+
+---
+
+### TryHackMe — Hacker Rank · Top 15% Global
+- **Rank:** Hacker (0x8) 🇰🇪
+- **Completed Rooms:** 52
+- **Badges:** 10
+
+🔗 [TryHackMe Profile](https://tryhackme.com/p/HolyBible)
+
+---
+
+### APIsec University
+| Course | Status |
+|--------|--------|
+| API Security Fundamentals 2025 | ✅ Completed |
+| API Penetration Testing | 🔄 In Progress (near completion) |
+
+---
+
+## 🧩 Featured Projects
+
+### 🔬 [SecureLab](https://github.com/Fela-420/securelab)
+A deliberately vulnerable Flask/PostgreSQL web application built as a personal practice environment. Used to test exploits, validate payloads, and refine attack methodology in a safe, controlled setting.
+> `Flask` `PostgreSQL` `Python` `Kali Linux`
+
+### 🧰 [bug-bounty-arsenal](./bug-bounty-arsenal)
+Personal collection of recon scripts, automation tools, methodology notes, and payload lists used in live bug bounty hunting. Includes the full 16-phase recon pipeline.
+
+### 🌐 [2-month-full-web-protection-practise](./2-month-full-web-protection-practise-)
+Comprehensive web penetration testing practice covering the OWASP Top 10. Includes test cases, payloads, and remediation writeups.
+
+### 🔑 [IDOR](./IDOR-)
+Practical exploitation and mitigation of Insecure Direct Object Reference vulnerabilities.
+
+### 💉 [SQL-Injection](./SQL-Injection-)
+SQL injection payloads, attack walkthroughs, and defence techniques.
+
+### 📋 [OWASP-Top-Ten](./Owasp-Top-ten-)
+Demonstrations and test cases covering all 10 OWASP risk categories.
+
+### 🚗 [ECU-Pentesting](./ECU-pentesting-)
+Labs covering automotive ECU security: threat modelling, fuzzing, and secure boot analysis.
+
+### 🏢 [Active-Directory](./Active-Directory)
+Enumeration and attack techniques for Windows Active Directory environments.
+
+---
+
+## 🏆 Certifications
+
+| Certification | Year |
+|---------------|------|
+| CompTIA Security+ | 2025–2028 |
+| ISO/IEC 27001 Lead Auditor | 2025 |
+| Cisco Ethical Hacker | 2025 |
+| ISC2 Candidate | 2025–2026 |
+| TryHackMe Web Fundamentals | 2025 |
+| TryHackMe Intro to Cybersecurity | 2025 |
+| Cisco Intro to Cybersecurity | 2025 |
+
+> 📁 Certificate images available in [`/certifications`](./certifications)
+
+---
+
+## 🎓 Education
+
+- **Moringa School** — BSc Cybersecurity *(2024–2025)*
+- **Cisco Networking Academy** — Cybersecurity & Ethical Hacking *(May 2024 – Feb 2025)*
+- **USIU Africa** — Security Analyst Attachment *(Dec 2024 – Aug 2025)*
+
+---
+
+## 📫 Contact
+
+- 📧 [bettf1000@gmail.com](mailto:bettf1000@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/felix-bett-86b582340/)
+- 🐙 [GitHub](https://github.com/Fela-420)
